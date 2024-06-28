@@ -4,5 +4,5 @@ Sistema que permite gerar cartões com as principais informações dos funcioná
 
 ## INSTALAÇÃO
 
-git clone https://github.com/SamiraFER/Sistematizacao-POO
+ https://github.com/SamiraFER/Sistematizacao-POO
 
